@@ -4,3 +4,4 @@ red onion
 cucumber
 2 tomatos
 sweet corn
+1 bag of salt
