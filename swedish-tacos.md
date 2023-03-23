@@ -2,5 +2,5 @@
 1 bag taco spice
 red onion
 cucumber
-tomatos
+2 tomatos
 sweet corn
