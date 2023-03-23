@@ -1,4 +1,4 @@
-Tacos? Nice.
+Tacos?
 
 # Forking workflow exercise with taco recipes
 
